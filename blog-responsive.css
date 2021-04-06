@@ -1,0 +1,55 @@
+@media (max-width: 767px){
+    .wrapper{
+
+    }
+    header{
+        display: block;
+        margin: 15px;
+    }
+    .logo{
+        text-align: center;
+        max-width: 100%;
+    }
+    .nav-menu ul{
+        display: block;
+    }
+    .pic-1{
+        width: 100%;
+        margin: 15px;
+    }
+    .div-first-content{
+        margin: 0 auto;
+    }
+    .subject-one{
+        padding-top: 50px;
+        text-align: center;
+        margin: 0;
+    }
+    h1{
+        margin: 15px;
+    }
+    body p{
+        margin: 0;
+    }
+    .post-one{
+        margin: 15px;
+        text-align: justify;
+    }
+    .comment{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .row-one{
+        display: block;
+    }
+    .image-row-one{
+        margin: 15px;
+    }
+    .subject-two{
+        text-align: center;
+    }
+    .input-sign-up{
+        width: fit-content;
+        /* min-width: 350px; */
+    }
+}
